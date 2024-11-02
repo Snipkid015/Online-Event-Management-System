@@ -27,7 +27,7 @@ The **Online Event Management System** is a web application designed to streamli
 - **Frontend**: HTML, CSS, JavaScript, React or Vue.js for a responsive user interface.
 - **Backend**: Node.js and Express.js for server-side logic and RESTful API design.
 - **Database**: MongoDB or MySQL for data storage.
-- **Payment Integration**: Stripe or PayPal for secure transactions.
+- **Payment Integration**: UPI (Unified Payments Interface) for secure transactions.
 - **Deployment**: Hosted on platforms like Heroku, AWS, or DigitalOcean.
 
 ## Getting Started
