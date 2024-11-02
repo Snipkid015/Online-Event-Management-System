@@ -36,7 +36,7 @@ The **Online Event Management System** is a web application designed to streamli
 
 - Node.js and npm installed on your machine.
 - A database (MongoDB or MySQL) set up.
-- 
+
 ### Instructions for Use
 
 1. **Replace Placeholders**: Make sure to replace `yourusername` and `your_email@example.com` with your actual GitHub username and email address.
